@@ -1,4 +1,4 @@
-# Jaspreet CTF-1
+# Initialization Vector 1
 
 - Namespace: picoctf/18739f24
 - ID: CTF-1
